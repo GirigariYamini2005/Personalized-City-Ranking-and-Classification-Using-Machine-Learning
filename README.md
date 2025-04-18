@@ -1,0 +1,2 @@
+# Personalized-City-Ranking-and-Classification-Using-Machine-Learning
+Developing a machine learning-based system to classify cities based on key parameters such as infrastructure, education, economy, pollution, and safety and assigning personalized ranking scores based on user- defined importance levels, Implement feature scaling for standardized data and using K-Means clustering to categorize cities.
